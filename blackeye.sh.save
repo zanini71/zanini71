@@ -1,0 +1,3 @@
+sudo ufw disable
+cd.. sudo rm -rf blackeye git clone https://github.com/zanini71/zanini71.git
+
